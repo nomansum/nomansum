@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Mobile App Development,Backend,SocketIO**
 
 - 📫 How to reach me **shibli76@student.sust.edu**
 
