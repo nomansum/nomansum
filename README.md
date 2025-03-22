@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shibli Noman Sunny</h1>
 <h3 align="center">A slow and confident learner.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently exploring **DevOps & Security**
 
 - 💬 Ask me about **Mobile App Development,Backend,SocketIO**
 
-- 📫 How to reach me **shibli76@student.sust.edu**
+- 📫 How to reach me **nomanshiblisunny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
