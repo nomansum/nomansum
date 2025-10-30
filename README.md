@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shibli Noman Sunny</h1>
 <h3 align="center">A confident learner.</h3>
 
-- 💬 Ask me about **Java Spring, Backend, and Cybersecurity**
+- 💬 Ask me about **Django,NodeJS, Java Spring Boot, Backend, and Cybersecurity**
 - 📫 Reach me at: **nomanshiblisunny@gmail.com**
 - 📫 Reach me at: **noman.sunny.sns@gmail.com**
 
