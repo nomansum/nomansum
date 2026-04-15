@@ -1,7 +1,6 @@
 <h1 align="center">Assalamu Alaikum, I'm Shibli Noman Sunny</h1>
 <h3 align="center">A confident learner.</h3>
 
-- 💬 Ask me about **GoLang,NodeJS, Backend, and Cybersecurity**
 - 📫 Reach me at: **nomanshiblisunny@gmail.com**
 - 📫 Reach me at: **noman.sunny.sns@gmail.com**
 
