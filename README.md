@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum, I'm Shibli Noman Sunny</h1>
-<h3 align="center">A confident learner.</h3>
+<h3 align="center">A learner.</h3>
 
 - 📫 Reach me at: **nomanshiblisunny@gmail.com**
 - 📫 Reach me at: **noman.sunny.sns@gmail.com**
